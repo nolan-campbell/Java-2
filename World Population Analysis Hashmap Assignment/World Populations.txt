@@ -1,0 +1,233 @@
+﻿China###1420062022###9388211
+India###1368737513###2973190
+U.S.###329093110###9147420
+Indonesia###269536482###1811570
+Brazil###212392717###8358140
+Pakistan###204596442###770880
+Nigeria###200962417###910770
+Bangladesh###168065920###130170
+Russia###143895551###16376870
+Mexico###132328035###1943950
+Japan###126854745###364555
+Ethiopia###110135635###1000000
+Philippines###108106310###298170
+Egypt###101168745###995450
+Viet Nam###97429061###310070
+DR Congo###86727573###2267050
+Turkey###82961805###769630
+Iran###82820766###1628550
+Germany###82438639###348560
+Thailand###69306160###510890
+U.K.###66959016###241930
+France###65480710###547557
+Tanzania###60913557###885800
+Italy###59216525###294140
+South Africa###58065097###1213090
+Myanmar###54336138###653290
+Kenya###52214791###569140
+South Korea###51339238###97230
+Colombia###49849818###1109500
+Spain###46441049###498800
+Uganda###45711874###199810
+Argentina###45101781###2736690
+Ukraine###43795220###579320
+Algeria###42679018###2381740
+Sudan###42514094###1765048
+Iraq###40412299###434320
+Poland###38028278###306230
+Canada###37279811###9093510
+Afghanistan###37209007###652860
+Morocco###36635156###446300
+Saudi Arabia###34140662###2149690
+Peru###32933835###1280000
+Uzbekistan###32807368###425400
+Venezuela###32779868###882050
+Malaysia###32454455###328550
+Angola###31787566###1246700
+Mozambique###31408823###786380
+Ghana###30096970###227540
+Nepal###29942018###143350
+Yemen###29579986###527970
+Madagascar###26969642###581795
+North Korea###25727408###120410
+Côte d'Ivoire###25531083###318000
+Cameroon###25312993###472710
+Australia###25088636###7682300
+Taiwan###23758247###35410
+Niger###23176691###1266700
+Sri Lanka###21018859###62710
+Burkina Faso###20321560###273600
+Malawi###19718743###94280
+Mali###19689140###1220190
+Romania###19483360###230170
+Kazakhstan###18592970###2699700
+Syria###18499181###183630
+Chile###18336653###743532
+Zambia###18137369###743390
+Guatemala###17577842###107160
+Zimbabwe###17297495###386850
+Netherlands###17132908###33720
+Ecuador###17100444###248360
+Senegal###16743859###192530
+Cambodia###16482646###176520
+Chad###15814345###1259200
+Somalia###15636171###627340
+Guinea###13398180###245720
+South Sudan###13263184###610952
+Rwanda###12794412###24670
+Benin###11801595###112760
+Tunisia###11783168###155360
+Burundi###11575964###25680
+Belgium###11562784###30280
+Cuba###11492046###106440
+Bolivia###11379861###1083300
+Haiti###11242856###27560
+Greece###11124603###128900
+Dominican Republic###10996774###48320
+Czech Republic###10630589###77240
+Portugal###10254666###91590
+Jordan###10069794###88780
+Sweden###10053135###410340
+Azerbaijan###10014575###82658
+United Arab Emirates###9682088###83600
+Hungary###9655361###90530
+Honduras###9568688###111890
+Belarus###9433874###202910
+Tajikistan###9292000###139960
+Austria###8766201###82409
+Serbia###8733407###87460
+Switzerland###8608259###39516
+Papua New Guinea###8586525###452860
+Israel###8583916###21640
+Togo###8186384###54390
+Sierra Leone###7883123###72180
+Hong Kong###7490776###1050
+Laos###7064242###230800
+Bulgaria###6988739###108560
+Paraguay###6981981###397300
+Libya###6569864###1759540
+El Salvador###6445405###20720
+Nicaragua###6351157###120340
+Kyrgyzstan###6218616###191800
+Lebanon###6065922###10230
+Turkmenistan###5942561###469930
+Singapore###5868104###700
+Denmark###5775224###42430
+Finland###5561389###303890
+Congo###5542197###341500
+Slovakia###5450987###48088
+Norway###5400916###365268
+Eritrea###5309659###101000
+State of Palestine###5186790###6020
+Oman###5001875###309500
+Costa Rica###4999384###51060
+Liberia###4977720###96320
+Ireland###4847139###68890
+Central African Republic###4825711###622980
+New Zealand###4792409###263310
+Mauritania###4661149###1030700
+Kuwait###4248974###17820
+Panama###4226197###74340
+Croatia###4140148###55960
+Moldova###4029750###32850
+Georgia###3904204###69490
+Puerto Rico###3654978###8870
+Bosnia & Herzegovina###3501774###51000
+Uruguay###3482156###175020
+Mongolia###3166244###1553560
+Albania###2938428###27400
+Armenia###2936706###28470
+Jamaica###2906339###10830
+Lithuania###2864459###62674
+Qatar###2743901###11610
+Namibia###2641996###823290
+Botswana###2374636###566730
+Lesotho###2292682###30360
+Gambia###2228075###10120
+Gabon###2109099###257670
+TFYR Macedonia###2086720###25220
+Slovenia###2081900###20140
+Guinea-Bissau###1953723###28120
+Latvia###1911108###62200
+Bahrain###1637896###760
+Swaziland###1415414###17200
+Trinidad and Tobago###1375443###5130
+Equatorial Guinea###1360104###28050
+Timor-Leste###1352360###14870
+Estonia###1303798###42390
+Mauritius###1271368###2030
+Cyprus###1198427###9240
+Djibouti###985690###23180
+Fiji###918757###18270
+Réunion###889918###2500
+Comoros###850910###1861
+Bhutan###826229###38117
+Guyana###786508###196850
+Macao###642090###30
+Solomon Islands###635254###27990
+Montenegro###629355###13450
+Luxembourg###596992###2590
+Western Sahara###582478###266000
+Suriname###573085###156000
+Cabo Verde###560349###4030
+Maldives###451738###300
+Guadeloupe###448798###1690
+Brunei###439336###5270
+Malta###433245###320
+Bahamas###403095###10010
+Belize###390231###22810
+Martinique###385320###1060
+Iceland###340566###100250
+French Guiana###296847###82200
+French Polynesia###288506###3660
+Vanuatu###288017###12190
+Barbados###287010###430
+New Caledonia###283376###18280
+Mayotte###266380###375
+Sao Tome & Principe###213379###960
+Samoa###198909###2830
+Saint Lucia###180454###610
+Guam###167245###540
+Channel Islands###166828###190
+Curaçao###162547###444
+Kiribati###120428###810
+St. Vincent & Grenadines###110488###390
+Tonga###110041###720
+Grenada###108825###340
+Micronesia###106983###700
+Aruba###106053###180
+U.S. Virgin Islands###104909###350
+Antigua and Barbuda###104084###440
+Seychelles###95702###460
+Isle of Man###85369###570
+Andorra###77072###470
+Dominica###74679###750
+Cayman Islands###63129###240
+Bermuda###60833###50
+Greenland###56673###410450
+Saint Kitts & Nevis###56345###260
+American Samoa###55727###200
+Northern Mariana Islands###55246###460
+Marshall Islands###53211###180
+Faeroe Islands###49692###1396
+Sint Maarten###40939###34
+Monaco###39102###1
+Liechtenstein###38404###160
+Turks and Caicos###36461###950
+Gibraltar###34879###10
+San Marino###33683###60
+British Virgin Islands###32206###150
+Caribbean Netherlands###25971###328
+Palau###22206###460
+Cook Islands###17462###240
+Anguilla###15174###90
+Wallis & Futuna###11617###140
+Tuvalu###11393###30
+Nauru###11260###20
+Saint Pierre & Miquelon###6375###230
+Montserrat###5220###100
+Saint Helena###4096###390
+Falkland Islands###2921###12170
+Niue###1628###260
+Tokelau###1340###10
+Holy See###799###0.44
